@@ -3,6 +3,10 @@
 ### I'm Jakub, starting Java Developer, working with Open Source Minecraft projects.
 
 
+
+## My Discord:
+![discord](https://discord.c99.nl/widget/theme-2/533345209434767372.png)
+
 ## My stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubk15&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

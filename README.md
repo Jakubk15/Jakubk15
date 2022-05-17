@@ -12,4 +12,9 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com/Jakubk15/casedrop-core/pull/10) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+2. 🗣 Commented on [#9](https://github.com/Jakubk15/casedrop-core/issues/9) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+3. ❌ Closed PR [#8](https://github.com/Jakubk15/casedrop-core/pull/8) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+4. 🎉 Merged PR [#14](https://github.com/EternalCodeTeam/PluginTemplate/pull/14) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+5. 🎉 Merged PR [#16](https://github.com/EternalCodeTeam/PluginTemplate/pull/16) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
 <!--END_SECTION:activity-->

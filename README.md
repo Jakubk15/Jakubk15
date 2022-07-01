@@ -12,9 +12,9 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Jakubk15/casedrop-core/pull/11) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-2. 🎉 Merged PR [#10](https://github.com/Jakubk15/casedrop-core/pull/10) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-3. 🗣 Commented on [#9](https://github.com/Jakubk15/casedrop-core/issues/9) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-4. ❌ Closed PR [#8](https://github.com/Jakubk15/casedrop-core/pull/8) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-5. 🎉 Merged PR [#14](https://github.com/EternalCodeTeam/PluginTemplate/pull/14) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+1. 💪 Opened PR [#33](https://github.com/narumii/Deobfuscator/pull/33) in [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator)
+2. ❗️ Opened issue [#32](https://github.com/narumii/Deobfuscator/issues/32) in [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator)
+3. 🎉 Merged PR [#11](https://github.com/Jakubk15/casedrop-core/pull/11) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+4. 🎉 Merged PR [#10](https://github.com/Jakubk15/casedrop-core/pull/10) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+5. 🗣 Commented on [#9](https://github.com/Jakubk15/casedrop-core/issues/9) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
 <!--END_SECTION:activity-->

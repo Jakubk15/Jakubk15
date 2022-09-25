@@ -12,9 +12,9 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/narumii/Deobfuscator/pull/33) in [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator)
-2. ❗️ Opened issue [#32](https://github.com/narumii/Deobfuscator/issues/32) in [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator)
-3. 🎉 Merged PR [#11](https://github.com/Jakubk15/casedrop-core/pull/11) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-4. 🎉 Merged PR [#10](https://github.com/Jakubk15/casedrop-core/pull/10) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-5. 🗣 Commented on [#9](https://github.com/Jakubk15/casedrop-core/issues/9) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+1. 🎉 Merged PR [#1](https://github.com/Jakubk15/ParcelLockers/pull/1) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+2. 🎉 Merged PR [#3](https://github.com/Jakubk15/ParcelLockers/pull/3) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+3. 🎉 Merged PR [#2](https://github.com/Jakubk15/ParcelLockers/pull/2) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+4. 🎉 Merged PR [#20](https://github.com/Jakubk15/casedrop-core/pull/20) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+5. 🎉 Merged PR [#18](https://github.com/Jakubk15/casedrop-core/pull/18) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
 <!--END_SECTION:activity-->

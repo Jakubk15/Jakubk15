@@ -15,7 +15,7 @@
 
 > 🏆 197 Contributions in the Year 2022
  > 
-> 📦 743 Bytes Used in GitHub's Storage 
+> 📦 744 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,13 +40,13 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   98.82% 
-XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.18%
+Java                     0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   98.21% 
+XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.79%
 
 ```
 
 
- Last Updated on 13/10/2022 18:28:51 UTC
+ Last Updated on 14/10/2022 02:00:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

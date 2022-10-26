@@ -53,9 +53,9 @@ GitIgnore file           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/EternalCodeTeam/EternalCode-WWW/issues/35) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
-2. 🎉 Merged PR [#22](https://github.com/Jakubk15/casedrop-core/pull/22) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-3. 🎉 Merged PR [#4](https://github.com/Jakubk15/ParcelLockers/pull/4) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+1. 🎉 Merged PR [#5](https://github.com/Jakubk15/ParcelLockers/pull/5) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+2. 🗣 Commented on [#35](https://github.com/EternalCodeTeam/EternalCode-WWW/issues/35) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
+3. 🎉 Merged PR [#22](https://github.com/Jakubk15/casedrop-core/pull/22) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
 4. 💪 Opened PR [#2](https://github.com/Marcin123456789/DailyPayments/pull/2) in [Marcin123456789/DailyPayments](https://github.com/Marcin123456789/DailyPayments)
 5. 💪 Opened PR [#1](https://github.com/Marcin123456789/DailyPayments/pull/1) in [Marcin123456789/DailyPayments](https://github.com/Marcin123456789/DailyPayments)
 <!--END_SECTION:activity-->

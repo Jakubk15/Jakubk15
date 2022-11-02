@@ -53,9 +53,9 @@ GitIgnore file           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/EternalCodeTeam/EternalCore/pull/210) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#23](https://github.com/Jakubk15/casedrop-core/pull/23) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-3. 🎉 Merged PR [#6](https://github.com/Jakubk15/ParcelLockers/pull/6) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-4. 🎉 Merged PR [#5](https://github.com/Jakubk15/ParcelLockers/pull/5) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-5. 🗣 Commented on [#35](https://github.com/EternalCodeTeam/EternalCode-WWW/issues/35) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
+1. 🎉 Merged PR [#210](https://github.com/EternalCodeTeam/EternalCore/pull/210) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 💪 Opened PR [#1](https://github.com/Byzus/LEGOProjects/pull/1) in [Byzus/LEGOProjects](https://github.com/Byzus/LEGOProjects)
+3. 💪 Opened PR [#210](https://github.com/EternalCodeTeam/EternalCore/pull/210) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 🎉 Merged PR [#23](https://github.com/Jakubk15/casedrop-core/pull/23) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+5. 🎉 Merged PR [#6](https://github.com/Jakubk15/ParcelLockers/pull/6) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
 <!--END_SECTION:activity-->

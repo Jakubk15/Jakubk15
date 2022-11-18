@@ -53,9 +53,9 @@ GitIgnore file           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/Col-E/CAFED00D/pull/19) in [Col-E/CAFED00D](https://github.com/Col-E/CAFED00D)
-2. 💪 Opened PR [#2](https://github.com/EternalCodeTeam/EternalReports/pull/2) in [EternalCodeTeam/EternalReports](https://github.com/EternalCodeTeam/EternalReports)
-3. 💪 Opened PR [#38](https://github.com/EternalCodeTeam/ChatFormatter/pull/38) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-4. 🗣 Commented on [#194](https://github.com/kangarko/Foundation/issues/194) in [kangarko/Foundation](https://github.com/kangarko/Foundation)
-5. 💪 Opened PR [#46](https://github.com/narumii/Deobfuscator/pull/46) in [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator)
+1. 🗣 Commented on [#209](https://github.com/EternalCodeTeam/EternalCore/issues/209) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 💪 Opened PR [#19](https://github.com/Col-E/CAFED00D/pull/19) in [Col-E/CAFED00D](https://github.com/Col-E/CAFED00D)
+3. 💪 Opened PR [#2](https://github.com/EternalCodeTeam/EternalReports/pull/2) in [EternalCodeTeam/EternalReports](https://github.com/EternalCodeTeam/EternalReports)
+4. 💪 Opened PR [#38](https://github.com/EternalCodeTeam/ChatFormatter/pull/38) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+5. 🗣 Commented on [#194](https://github.com/kangarko/Foundation/issues/194) in [kangarko/Foundation](https://github.com/kangarko/Foundation)
 <!--END_SECTION:activity-->

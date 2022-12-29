@@ -53,9 +53,9 @@ GitIgnore file           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/EternalCodeTeam/EternalCheck/pull/70) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-2. 🎉 Merged PR [#24](https://github.com/Jakubk15/casedrop-core/pull/24) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-3. 🎉 Merged PR [#25](https://github.com/Jakubk15/casedrop-core/pull/25) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-4. 💪 Opened PR [#3](https://github.com/EternalCodeTeam/EternalReports/pull/3) in [EternalCodeTeam/EternalReports](https://github.com/EternalCodeTeam/EternalReports)
-5. 🗣 Commented on [#209](https://github.com/EternalCodeTeam/EternalCore/issues/209) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. ❗️ Opened issue [#261](https://github.com/EternalCodeTeam/EternalCore/issues/261) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🗣 Commented on [#260](https://github.com/EternalCodeTeam/EternalCore/issues/260) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ❗️ Opened issue [#260](https://github.com/EternalCodeTeam/EternalCore/issues/260) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. ❗️ Opened issue [#259](https://github.com/EternalCodeTeam/EternalCore/issues/259) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗️ Opened issue [#258](https://github.com/EternalCodeTeam/EternalCore/issues/258) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

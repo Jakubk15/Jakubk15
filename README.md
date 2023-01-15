@@ -53,9 +53,9 @@ GitIgnore file           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Jakubk15/ParcelLockers/pull/10) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-2. 💪 Opened PR [#10](https://github.com/Jakubk15/ParcelLockers/pull/10) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-3. 🎉 Merged PR [#9](https://github.com/Jakubk15/ParcelLockers/pull/9) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-4. ❗️ Opened issue [#271](https://github.com/EternalCodeTeam/EternalCore/issues/271) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗️ Opened issue [#261](https://github.com/EternalCodeTeam/EternalCore/issues/261) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🗣 Commented on [#59](https://github.com/EternalCodeTeam/ChatFormatter/issues/59) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+2. 🎉 Merged PR [#10](https://github.com/Jakubk15/ParcelLockers/pull/10) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+3. 💪 Opened PR [#10](https://github.com/Jakubk15/ParcelLockers/pull/10) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+4. 🎉 Merged PR [#9](https://github.com/Jakubk15/ParcelLockers/pull/9) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+5. ❗️ Opened issue [#271](https://github.com/EternalCodeTeam/EternalCore/issues/271) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

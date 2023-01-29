@@ -53,9 +53,9 @@ GitIgnore file           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#325](https://github.com/EternalCodeTeam/EternalCore/issues/325) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 💪 Opened PR [#325](https://github.com/EternalCodeTeam/EternalCore/pull/325) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 💪 Opened PR [#53](https://github.com/EternalCodeTeam/EternalRTP/pull/53) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
-4. ❗️ Opened issue [#52](https://github.com/EternalCodeTeam/EternalRTP/issues/52) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
-5. ❗️ Opened issue [#51](https://github.com/EternalCodeTeam/EternalRTP/issues/51) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+1. 🎉 Merged PR [#18](https://github.com/Jakubk15/ParcelLockers/pull/18) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+2. 🗣 Commented on [#325](https://github.com/EternalCodeTeam/EternalCore/issues/325) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 💪 Opened PR [#325](https://github.com/EternalCodeTeam/EternalCore/pull/325) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 💪 Opened PR [#53](https://github.com/EternalCodeTeam/EternalRTP/pull/53) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+5. ❗️ Opened issue [#52](https://github.com/EternalCodeTeam/EternalRTP/issues/52) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
 <!--END_SECTION:activity-->

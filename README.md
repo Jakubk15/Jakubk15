@@ -53,9 +53,9 @@ YAML                     20 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Jakubk15/ParcelLockers/pull/19) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-2. 🎉 Merged PR [#18](https://github.com/Jakubk15/ParcelLockers/pull/18) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-3. 🗣 Commented on [#325](https://github.com/EternalCodeTeam/EternalCore/issues/325) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 💪 Opened PR [#325](https://github.com/EternalCodeTeam/EternalCore/pull/325) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 💪 Opened PR [#53](https://github.com/EternalCodeTeam/EternalRTP/pull/53) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+1. 💪 Opened PR [#77](https://github.com/EternalCodeTeam/EternalCheck/pull/77) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
+2. 💪 Opened PR [#66](https://github.com/EternalCodeTeam/ChatFormatter/pull/66) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+3. 💪 Opened PR [#59](https://github.com/EternalCodeTeam/EternalRTP/pull/59) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+4. ❌ Closed PR [#58](https://github.com/EternalCodeTeam/EternalRTP/pull/58) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+5. 💪 Opened PR [#58](https://github.com/EternalCodeTeam/EternalRTP/pull/58) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
 <!--END_SECTION:activity-->

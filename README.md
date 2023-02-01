@@ -53,9 +53,9 @@ YAML                     27 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/EternalCodeTeam/GitCheck/pull/11) in [EternalCodeTeam/GitCheck](https://github.com/EternalCodeTeam/GitCheck)
-2. 💪 Opened PR [#77](https://github.com/EternalCodeTeam/EternalCheck/pull/77) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-3. 💪 Opened PR [#66](https://github.com/EternalCodeTeam/ChatFormatter/pull/66) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-4. 💪 Opened PR [#59](https://github.com/EternalCodeTeam/EternalRTP/pull/59) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
-5. ❌ Closed PR [#58](https://github.com/EternalCodeTeam/EternalRTP/pull/58) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+1. 💪 Opened PR [#69](https://github.com/EternalCodeTeam/ChatFormatter/pull/69) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+2. 💪 Opened PR [#11](https://github.com/EternalCodeTeam/GitCheck/pull/11) in [EternalCodeTeam/GitCheck](https://github.com/EternalCodeTeam/GitCheck)
+3. 💪 Opened PR [#77](https://github.com/EternalCodeTeam/EternalCheck/pull/77) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
+4. 💪 Opened PR [#66](https://github.com/EternalCodeTeam/ChatFormatter/pull/66) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+5. 💪 Opened PR [#59](https://github.com/EternalCodeTeam/EternalRTP/pull/59) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
 <!--END_SECTION:activity-->

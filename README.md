@@ -9,13 +9,13 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 79 Contributions in the Year 2023
  > 
-> 📦 837 Bytes Used in GitHub's Storage 
+> 📦 838 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,10 +26,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    32 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.72% 
-🌆 Daytime    102 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.36% 
-🌃 Evening    135 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.45% 
-🌙 Night      4 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.47%
+🌞 Morning    16 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.4% 
+🌆 Daytime    95 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.0% 
+🌃 Evening    135 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.0% 
+🌙 Night      4 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.6%
 
 ```
 
@@ -49,7 +49,7 @@ YAML                     32 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 01/02/2023 18:17:20 UTC
+ Last Updated on 02/02/2023 01:08:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

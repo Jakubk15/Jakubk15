@@ -53,9 +53,9 @@ XML                      24 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/EternalCodeTeam/ChatFormatter/pull/69) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-2. 💪 Opened PR [#11](https://github.com/EternalCodeTeam/GitCheck/pull/11) in [EternalCodeTeam/GitCheck](https://github.com/EternalCodeTeam/GitCheck)
-3. 💪 Opened PR [#77](https://github.com/EternalCodeTeam/EternalCheck/pull/77) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-4. 💪 Opened PR [#66](https://github.com/EternalCodeTeam/ChatFormatter/pull/66) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-5. 💪 Opened PR [#59](https://github.com/EternalCodeTeam/EternalRTP/pull/59) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+1. 🎉 Merged PR [#20](https://github.com/Jakubk15/ParcelLockers/pull/20) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
+2. 🎉 Merged PR [#29](https://github.com/Jakubk15/casedrop-core/pull/29) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
+3. 💪 Opened PR [#69](https://github.com/EternalCodeTeam/ChatFormatter/pull/69) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+4. 💪 Opened PR [#11](https://github.com/EternalCodeTeam/GitCheck/pull/11) in [EternalCodeTeam/GitCheck](https://github.com/EternalCodeTeam/GitCheck)
+5. 💪 Opened PR [#77](https://github.com/EternalCodeTeam/EternalCheck/pull/77) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
 <!--END_SECTION:activity-->

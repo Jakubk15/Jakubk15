@@ -53,9 +53,9 @@ Text                     4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/EternalCodeTeam/EternalRTP/pull/63) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
-2. 💪 Opened PR [#20](https://github.com/Rollczi/LiteDevelopers-docs/pull/20) in [Rollczi/LiteDevelopers-docs](https://github.com/Rollczi/LiteDevelopers-docs)
-3. 🎉 Merged PR [#20](https://github.com/Jakubk15/ParcelLockers/pull/20) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
-4. 🎉 Merged PR [#29](https://github.com/Jakubk15/casedrop-core/pull/29) in [Jakubk15/casedrop-core](https://github.com/Jakubk15/casedrop-core)
-5. 💪 Opened PR [#69](https://github.com/EternalCodeTeam/ChatFormatter/pull/69) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+1. 🎉 Merged PR [#22](https://github.com/EternalCodeTeam/ParcelLockers/pull/22) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 💪 Opened PR [#22](https://github.com/EternalCodeTeam/ParcelLockers/pull/22) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 💪 Opened PR [#63](https://github.com/EternalCodeTeam/EternalRTP/pull/63) in [EternalCodeTeam/EternalRTP](https://github.com/EternalCodeTeam/EternalRTP)
+4. 💪 Opened PR [#20](https://github.com/Rollczi/LiteDevelopers-docs/pull/20) in [Rollczi/LiteDevelopers-docs](https://github.com/Rollczi/LiteDevelopers-docs)
+5. 🎉 Merged PR [#20](https://github.com/Jakubk15/ParcelLockers/pull/20) in [Jakubk15/ParcelLockers](https://github.com/Jakubk15/ParcelLockers)
 <!--END_SECTION:activity-->

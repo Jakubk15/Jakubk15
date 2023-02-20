@@ -53,9 +53,9 @@ Properties               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/intergrav/devins-badges/pull/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
-2. 💪 Opened PR [#360](https://github.com/EternalCodeTeam/EternalCore/pull/360) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 💪 Opened PR [#26](https://github.com/EternalCodeTeam/ParcelLockers/pull/26) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🎉 Merged PR [#24](https://github.com/EternalCodeTeam/ParcelLockers/pull/24) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 💪 Opened PR [#353](https://github.com/EternalCodeTeam/EternalCore/pull/353) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
+2. 💪 Opened PR [#60](https://github.com/intergrav/devins-badges/pull/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
+3. 💪 Opened PR [#360](https://github.com/EternalCodeTeam/EternalCore/pull/360) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 💪 Opened PR [#26](https://github.com/EternalCodeTeam/ParcelLockers/pull/26) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 🎉 Merged PR [#24](https://github.com/EternalCodeTeam/ParcelLockers/pull/24) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

@@ -53,9 +53,9 @@ INI                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/EternalCodeTeam/EternalCore/issues/360) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🗣 Commented on [#360](https://github.com/EternalCodeTeam/EternalCore/issues/360) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 💪 Opened PR [#4895](https://github.com/is-a-dev/register/pull/4895) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
-5. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
+1. ❌ Closed PR [#8884](https://github.com/PaperMC/Paper/pull/8884) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
+2. 💪 Opened PR [#8884](https://github.com/PaperMC/Paper/pull/8884) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
+3. 💪 Opened PR [#8883](https://github.com/PaperMC/Paper/pull/8883) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
+4. 🎉 Merged PR [#26](https://github.com/EternalCodeTeam/ParcelLockers/pull/26) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 🎉 Merged PR [#11](https://github.com/EternalCodeTeam/GitCheck/pull/11) in [EternalCodeTeam/GitCheck](https://github.com/EternalCodeTeam/GitCheck)
 <!--END_SECTION:activity-->

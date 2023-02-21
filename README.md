@@ -53,9 +53,9 @@ Properties               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
-2. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
-3. 💪 Opened PR [#60](https://github.com/intergrav/devins-badges/pull/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
-4. 💪 Opened PR [#360](https://github.com/EternalCodeTeam/EternalCore/pull/360) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 💪 Opened PR [#26](https://github.com/EternalCodeTeam/ParcelLockers/pull/26) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🗣 Commented on [#360](https://github.com/EternalCodeTeam/EternalCore/issues/360) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 💪 Opened PR [#4895](https://github.com/is-a-dev/register/pull/4895) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
+4. 🗣 Commented on [#60](https://github.com/intergrav/devins-badges/issues/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
+5. 💪 Opened PR [#60](https://github.com/intergrav/devins-badges/pull/60) in [intergrav/devins-badges](https://github.com/intergrav/devins-badges)
 <!--END_SECTION:activity-->

@@ -51,9 +51,9 @@ Kotlin                   12 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#358](https://github.com/EternalCodeTeam/EternalCore/pull/358) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#25](https://github.com/EternalCodeTeam/ParcelLockers/pull/25) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🎉 Merged PR [#69](https://github.com/EternalCodeTeam/DiscordOfficer/pull/69) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
-4. 🗣 Commented on [#8889](https://github.com/PaperMC/Paper/issues/8889) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
-5. 💪 Opened PR [#8889](https://github.com/PaperMC/Paper/pull/8889) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
+1. 🎉 Merged PR [#27](https://github.com/EternalCodeTeam/ParcelLockers/pull/27) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❌ Closed PR [#358](https://github.com/EternalCodeTeam/EternalCore/pull/358) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#25](https://github.com/EternalCodeTeam/ParcelLockers/pull/25) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. 🎉 Merged PR [#69](https://github.com/EternalCodeTeam/DiscordOfficer/pull/69) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
+5. 🗣 Commented on [#8889](https://github.com/PaperMC/Paper/issues/8889) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
 <!--END_SECTION:activity-->

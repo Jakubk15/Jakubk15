@@ -51,9 +51,9 @@ Markdown                 10 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/EternalCodeTeam/ParcelLockers/pull/27) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. ❌ Closed PR [#358](https://github.com/EternalCodeTeam/EternalCore/pull/358) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🎉 Merged PR [#25](https://github.com/EternalCodeTeam/ParcelLockers/pull/25) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🎉 Merged PR [#69](https://github.com/EternalCodeTeam/DiscordOfficer/pull/69) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
-5. 🗣 Commented on [#8889](https://github.com/PaperMC/Paper/issues/8889) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
+1. 🎉 Merged PR [#26](https://github.com/EternalCodeTeam/Docs/pull/26) in [EternalCodeTeam/Docs](https://github.com/EternalCodeTeam/Docs)
+2. 🎉 Merged PR [#27](https://github.com/EternalCodeTeam/ParcelLockers/pull/27) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. ❌ Closed PR [#358](https://github.com/EternalCodeTeam/EternalCore/pull/358) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 🎉 Merged PR [#25](https://github.com/EternalCodeTeam/ParcelLockers/pull/25) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 🎉 Merged PR [#69](https://github.com/EternalCodeTeam/DiscordOfficer/pull/69) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
 <!--END_SECTION:activity-->

@@ -9,13 +9,13 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2033%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 159 Contributions in the Year 2023
+> 🏆 160 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,7 +47,7 @@ Diff                     2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 04/03/2023 18:15:45 UTC
+ Last Updated on 05/03/2023 01:18:07 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

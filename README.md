@@ -51,9 +51,9 @@ Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Byzus/RGBTeams/pull/1) in [Byzus/RGBTeams](https://github.com/Byzus/RGBTeams)
-2. 🎉 Merged PR [#33](https://github.com/EternalCodeTeam/ParcelLockers/pull/33) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🎉 Merged PR [#32](https://github.com/EternalCodeTeam/ParcelLockers/pull/32) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🗣 Commented on [#78](https://github.com/EternalCodeTeam/EternalCode-WWW/issues/78) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
-5. ❌ Closed PR [#62](https://github.com/EternalCodeTeam/EternalCode-WWW/pull/62) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
+1. ❌ Reopened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+2. ❌ Closed PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+3. 💪 Opened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+4. 💪 Opened PR [#1](https://github.com/Byzus/RGBTeams/pull/1) in [Byzus/RGBTeams](https://github.com/Byzus/RGBTeams)
+5. 🎉 Merged PR [#33](https://github.com/EternalCodeTeam/ParcelLockers/pull/33) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

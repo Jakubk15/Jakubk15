@@ -51,9 +51,9 @@ Text                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
-2. ❌ Closed PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
-3. 💪 Opened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
-4. 🎉 Merged PR [#33](https://github.com/EternalCodeTeam/ParcelLockers/pull/33) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 🎉 Merged PR [#32](https://github.com/EternalCodeTeam/ParcelLockers/pull/32) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 💪 Opened PR [#1](https://github.com/Byzus/ByzusCells/pull/1) in [Byzus/ByzusCells](https://github.com/Byzus/ByzusCells)
+2. ❌ Reopened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+3. ❌ Closed PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+4. 💪 Opened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+5. 🎉 Merged PR [#33](https://github.com/EternalCodeTeam/ParcelLockers/pull/33) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

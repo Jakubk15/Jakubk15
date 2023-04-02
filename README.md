@@ -51,9 +51,9 @@ Text                     6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/EternalCodeTeam/ParcelLockers/pull/35) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🎉 Merged PR [#34](https://github.com/EternalCodeTeam/ParcelLockers/pull/34) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 💪 Opened PR [#1](https://github.com/Byzus/ByzusCells/pull/1) in [Byzus/ByzusCells](https://github.com/Byzus/ByzusCells)
-4. ❌ Reopened PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
-5. ❌ Closed PR [#3](https://github.com/Rollczi/swiat/pull/3) in [Rollczi/swiat](https://github.com/Rollczi/swiat)
+1. 🎉 Merged PR [#36](https://github.com/EternalCodeTeam/ParcelLockers/pull/36) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 💪 Opened PR [#36](https://github.com/EternalCodeTeam/ParcelLockers/pull/36) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 💪 Opened PR [#35](https://github.com/EternalCodeTeam/ParcelLockers/pull/35) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. 🎉 Merged PR [#34](https://github.com/EternalCodeTeam/ParcelLockers/pull/34) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 💪 Opened PR [#1](https://github.com/Byzus/ByzusCells/pull/1) in [Byzus/ByzusCells](https://github.com/Byzus/ByzusCells)
 <!--END_SECTION:activity-->

@@ -51,9 +51,9 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#395](https://github.com/EternalCodeTeam/EternalCore/pull/395) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#77](https://github.com/EternalCodeTeam/DiscordOfficer/pull/77) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
-3. ❗️ Opened issue [#79](https://github.com/EternalCodeTeam/DiscordOfficer/issues/79) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
+1. 🗣 Commented on [#39](https://github.com/EternalCodeTeam/ParcelLockers/issues/39) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🎉 Merged PR [#395](https://github.com/EternalCodeTeam/EternalCore/pull/395) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#77](https://github.com/EternalCodeTeam/DiscordOfficer/pull/77) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
 4. 💪 Opened PR [#39](https://github.com/EternalCodeTeam/ParcelLockers/pull/39) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 5. ❗️ Opened issue [#394](https://github.com/EternalCodeTeam/EternalCore/issues/394) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

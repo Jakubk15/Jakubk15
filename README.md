@@ -51,9 +51,9 @@ XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/EternalCodeTeam/EternalCode-WWW/pull/82) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
-2. ❗️ Closed issue [#301](https://github.com/EternalCodeTeam/EternalCore/issues/301) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🎉 Merged PR [#396](https://github.com/EternalCodeTeam/EternalCore/pull/396) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🗣 Commented on [#2](https://github.com/Rollczi/LiteCommands-IntelliJPlugin/issues/2) in [Rollczi/LiteCommands-IntelliJPlugin](https://github.com/Rollczi/LiteCommands-IntelliJPlugin)
-5. ❗️ Opened issue [#2](https://github.com/Rollczi/LiteCommands-IntelliJPlugin/issues/2) in [Rollczi/LiteCommands-IntelliJPlugin](https://github.com/Rollczi/LiteCommands-IntelliJPlugin)
+1. 🗣 Commented on [#401](https://github.com/EternalCodeTeam/EternalCore/issues/401) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 💪 Opened PR [#82](https://github.com/EternalCodeTeam/EternalCode-WWW/pull/82) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
+3. ❗️ Closed issue [#301](https://github.com/EternalCodeTeam/EternalCore/issues/301) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 🎉 Merged PR [#396](https://github.com/EternalCodeTeam/EternalCore/pull/396) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🗣 Commented on [#2](https://github.com/Rollczi/LiteCommands-IntelliJPlugin/issues/2) in [Rollczi/LiteCommands-IntelliJPlugin](https://github.com/Rollczi/LiteCommands-IntelliJPlugin)
 <!--END_SECTION:activity-->

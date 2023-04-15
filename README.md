@@ -51,9 +51,9 @@ XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#404](https://github.com/EternalCodeTeam/EternalCore/issues/404) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#82](https://github.com/EternalCodeTeam/EternalCode-WWW/pull/82) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
-3. 🗣 Commented on [#401](https://github.com/EternalCodeTeam/EternalCore/issues/401) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 💪 Opened PR [#82](https://github.com/EternalCodeTeam/EternalCode-WWW/pull/82) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
-5. ❗️ Closed issue [#301](https://github.com/EternalCodeTeam/EternalCore/issues/301) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 💪 Opened PR [#411](https://github.com/EternalCodeTeam/EternalCore/pull/411) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🗣 Commented on [#407](https://github.com/EternalCodeTeam/EternalCore/issues/407) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🗣 Commented on [#404](https://github.com/EternalCodeTeam/EternalCore/issues/404) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 🎉 Merged PR [#82](https://github.com/EternalCodeTeam/EternalCode-WWW/pull/82) in [EternalCodeTeam/EternalCode-WWW](https://github.com/EternalCodeTeam/EternalCode-WWW)
+5. 🗣 Commented on [#401](https://github.com/EternalCodeTeam/EternalCore/issues/401) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

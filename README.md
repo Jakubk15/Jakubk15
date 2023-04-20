@@ -51,9 +51,9 @@ Properties               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#424](https://github.com/EternalCodeTeam/EternalCore/pull/424) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🗣 Commented on [#61](https://github.com/EternalCodeTeam/EternalCombat/issues/61) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-3. 🗣 Commented on [#414](https://github.com/EternalCodeTeam/EternalCore/issues/414) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🎉 Merged PR [#40](https://github.com/EternalCodeTeam/ParcelLockers/pull/40) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 🎉 Merged PR [#39](https://github.com/EternalCodeTeam/ParcelLockers/pull/39) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. ❌ Closed PR [#41](https://github.com/EternalCodeTeam/ParcelLockers/pull/41) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 💪 Opened PR [#424](https://github.com/EternalCodeTeam/EternalCore/pull/424) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🗣 Commented on [#61](https://github.com/EternalCodeTeam/EternalCombat/issues/61) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. 🗣 Commented on [#414](https://github.com/EternalCodeTeam/EternalCore/issues/414) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#40](https://github.com/EternalCodeTeam/ParcelLockers/pull/40) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

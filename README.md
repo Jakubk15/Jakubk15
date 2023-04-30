@@ -4,7 +4,7 @@
 ### I'm Jakub, starting Java Developer, working with Open Source Minecraft projects.
 
 
-![discord](https://discord.c99.nl/widget/theme-2/533345209434767372.png)
+![discord](https://discord.c99.nl/widget/theme-4/533345209434767372.png)
 ## My tools and languages:
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 

@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/EternalCodeTeam/ParcelLockers/pull/50) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🗣 Commented on [#124](https://github.com/ProjektyUstaw/Ustawy-o-PIT/issues/124) in [ProjektyUstaw/Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT)
-3. 🎉 Merged PR [#439](https://github.com/EternalCodeTeam/EternalCore/pull/439) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❗️ Closed issue [#430](https://github.com/EternalCodeTeam/EternalCore/issues/430) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🎉 Merged PR [#442](https://github.com/EternalCodeTeam/EternalCore/pull/442) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🗣 Commented on [#76](https://github.com/EternalCodeTeam/EternalCombat/issues/76) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+2. 🎉 Merged PR [#50](https://github.com/EternalCodeTeam/ParcelLockers/pull/50) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🗣 Commented on [#124](https://github.com/ProjektyUstaw/Ustawy-o-PIT/issues/124) in [ProjektyUstaw/Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT)
+4. 🎉 Merged PR [#439](https://github.com/EternalCodeTeam/EternalCore/pull/439) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗️ Closed issue [#430](https://github.com/EternalCodeTeam/EternalCore/issues/430) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

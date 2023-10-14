@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#238](https://github.com/Rollczi/LiteCommands/issues/238) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)
-2. ❗️ Opened issue [#238](https://github.com/Rollczi/LiteCommands/issues/238) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)
-3. 🗣 Commented on [#58](https://github.com/EternalCodeTeam/ParcelLockers/issues/58) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🗣 Commented on [#58](https://github.com/EternalCodeTeam/ParcelLockers/issues/58) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. ❗️ Opened issue [#78](https://github.com/EternalCodeTeam/ParcelLockers/issues/78) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🎉 Merged PR [#82](https://github.com/EternalCodeTeam/ParcelLockers/pull/82) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❗️ Closed issue [#72](https://github.com/EternalCodeTeam/ParcelLockers/issues/72) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🎉 Merged PR [#58](https://github.com/EternalCodeTeam/ParcelLockers/pull/58) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. 🗣 Commented on [#238](https://github.com/Rollczi/LiteCommands/issues/238) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)
+5. ❗️ Opened issue [#238](https://github.com/Rollczi/LiteCommands/issues/238) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)
 <!--END_SECTION:activity-->

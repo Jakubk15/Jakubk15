@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/EternalCodeTeam/ChatFormatter/issues/97) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-2. 💪 Opened PR [#85](https://github.com/EternalCodeTeam/ParcelLockers/pull/85) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🎉 Merged PR [#84](https://github.com/EternalCodeTeam/ParcelLockers/pull/84) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 💪 Opened PR [#84](https://github.com/EternalCodeTeam/ParcelLockers/pull/84) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 🎉 Merged PR [#83](https://github.com/EternalCodeTeam/ParcelLockers/pull/83) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. ❗️ Closed issue [#20](https://github.com/EternalCodeTeam/LobbyHeads/issues/20) in [EternalCodeTeam/LobbyHeads](https://github.com/EternalCodeTeam/LobbyHeads)
+2. 🎉 Merged PR [#22](https://github.com/EternalCodeTeam/LobbyHeads/pull/22) in [EternalCodeTeam/LobbyHeads](https://github.com/EternalCodeTeam/LobbyHeads)
+3. 🗣 Commented on [#97](https://github.com/EternalCodeTeam/ChatFormatter/issues/97) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+4. 💪 Opened PR [#85](https://github.com/EternalCodeTeam/ParcelLockers/pull/85) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 🎉 Merged PR [#84](https://github.com/EternalCodeTeam/ParcelLockers/pull/84) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

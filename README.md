@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
-2. 🗣 Commented on [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
-3. ❗️ Opened issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
-4. 🗣 Commented on [#35](https://github.com/EternalCodeTeam/multification/issues/35) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
-5. 🎉 Merged PR [#101](https://github.com/EternalCodeTeam/ParcelLockers/pull/101) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. ❗️ Closed issue [#70](https://github.com/EternalCodeTeam/ParcelLockers/issues/70) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❗️ Closed issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
+3. 🗣 Commented on [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
+4. ❗️ Opened issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
+5. 🗣 Commented on [#35](https://github.com/EternalCodeTeam/multification/issues/35) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
 <!--END_SECTION:activity-->

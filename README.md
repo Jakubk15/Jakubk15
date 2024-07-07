@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#808](https://github.com/EternalCodeTeam/EternalCore/pull/808) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❗️ Closed issue [#70](https://github.com/EternalCodeTeam/ParcelLockers/issues/70) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. ❗️ Closed issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
-4. 🗣 Commented on [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
-5. ❗️ Opened issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
+1. 🎉 Merged PR [#102](https://github.com/EternalCodeTeam/ParcelLockers/pull/102) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 💪 Opened PR [#808](https://github.com/EternalCodeTeam/EternalCore/pull/808) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ❗️ Closed issue [#70](https://github.com/EternalCodeTeam/ParcelLockers/issues/70) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. ❗️ Closed issue [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
+5. 🗣 Commented on [#15](https://github.com/Rapha149/SignGUI/issues/15) in [Rapha149/SignGUI](https://github.com/Rapha149/SignGUI)
 <!--END_SECTION:activity-->

@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/EternalCodeTeam/ParcelLockers/pull/103) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🗣 Commented on [#37](https://github.com/EternalCodeTeam/multification/issues/37) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
-3. 🎉 Merged PR [#102](https://github.com/EternalCodeTeam/ParcelLockers/pull/102) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 💪 Opened PR [#808](https://github.com/EternalCodeTeam/EternalCore/pull/808) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗️ Closed issue [#70](https://github.com/EternalCodeTeam/ParcelLockers/issues/70) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🎉 Merged PR [#6](https://github.com/EternalCodeTeam/EternalTAB/pull/6) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+2. 🎉 Merged PR [#4](https://github.com/EternalCodeTeam/EternalTAB/pull/4) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+3. 🎉 Merged PR [#7](https://github.com/EternalCodeTeam/EternalTAB/pull/7) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+4. 🎉 Merged PR [#8](https://github.com/EternalCodeTeam/EternalTAB/pull/8) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+5. 🎉 Merged PR [#9](https://github.com/EternalCodeTeam/EternalTAB/pull/9) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
 <!--END_SECTION:activity-->

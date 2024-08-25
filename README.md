@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/EternalCodeTeam/DiscordOfficer/pull/161) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
-2. 🎉 Merged PR [#6](https://github.com/EternalCodeTeam/EternalTAB/pull/6) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
-3. 🎉 Merged PR [#4](https://github.com/EternalCodeTeam/EternalTAB/pull/4) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
-4. 🎉 Merged PR [#7](https://github.com/EternalCodeTeam/EternalTAB/pull/7) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
-5. 🎉 Merged PR [#8](https://github.com/EternalCodeTeam/EternalTAB/pull/8) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+1. 🗣 Commented on [#743](https://github.com/ciderapp/Cider-2/issues/743) in [ciderapp/Cider-2](https://github.com/ciderapp/Cider-2)
+2. 💪 Opened PR [#161](https://github.com/EternalCodeTeam/DiscordOfficer/pull/161) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
+3. 🎉 Merged PR [#6](https://github.com/EternalCodeTeam/EternalTAB/pull/6) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+4. 🎉 Merged PR [#4](https://github.com/EternalCodeTeam/EternalTAB/pull/4) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
+5. 🎉 Merged PR [#7](https://github.com/EternalCodeTeam/EternalTAB/pull/7) in [EternalCodeTeam/EternalTAB](https://github.com/EternalCodeTeam/EternalTAB)
 <!--END_SECTION:activity-->

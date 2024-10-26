@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/EternalCodeTeam/multification/issues/55) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
-2. 💪 Opened PR [#862](https://github.com/EternalCodeTeam/EternalCore/pull/862) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. ❗️ Opened issue [#860](https://github.com/EternalCodeTeam/EternalCore/issues/860) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❗️ Opened issue [#110](https://github.com/EternalCodeTeam/ParcelLockers/issues/110) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. ❗️ Closed issue [#100](https://github.com/EternalCodeTeam/ParcelLockers/issues/100) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🎉 Merged PR [#111](https://github.com/EternalCodeTeam/ParcelLockers/pull/111) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🗣 Commented on [#55](https://github.com/EternalCodeTeam/multification/issues/55) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
+3. 💪 Opened PR [#862](https://github.com/EternalCodeTeam/EternalCore/pull/862) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. ❗️ Opened issue [#860](https://github.com/EternalCodeTeam/EternalCore/issues/860) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗️ Opened issue [#110](https://github.com/EternalCodeTeam/ParcelLockers/issues/110) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

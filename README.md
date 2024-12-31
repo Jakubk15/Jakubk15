@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/EternalCodeTeam/ParcelLockers/pull/114) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🎉 Merged PR [#113](https://github.com/EternalCodeTeam/ParcelLockers/pull/113) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🎉 Merged PR [#112](https://github.com/EternalCodeTeam/ParcelLockers/pull/112) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🗣 Commented on [#200](https://github.com/EternalCodeTeam/EternalCombat/issues/200) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-5. 🎉 Merged PR [#111](https://github.com/EternalCodeTeam/ParcelLockers/pull/111) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🗣 Commented on [#116](https://github.com/EternalCodeTeam/ParcelLockers/issues/116) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 💪 Opened PR [#116](https://github.com/EternalCodeTeam/ParcelLockers/pull/116) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🎉 Merged PR [#55](https://github.com/EternalCodeTeam/multification/pull/55) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
+4. 🎉 Merged PR [#114](https://github.com/EternalCodeTeam/ParcelLockers/pull/114) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 🎉 Merged PR [#113](https://github.com/EternalCodeTeam/ParcelLockers/pull/113) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

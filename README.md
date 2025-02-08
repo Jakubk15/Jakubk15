@@ -49,7 +49,7 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
 2. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
-3. 💪 Opened PR [#89](https://github.com/Fix3dll/SkyblockAddons/pull/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
-4. 🗣 Commented on [#897](https://github.com/EternalCodeTeam/EternalCore/issues/897) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🎉 Merged PR [#115](https://github.com/EternalCodeTeam/ParcelLockers/pull/115) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
+4. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
+5. 💪 Opened PR [#89](https://github.com/Fix3dll/SkyblockAddons/pull/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
 <!--END_SECTION:activity-->

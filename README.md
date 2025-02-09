@@ -47,9 +47,9 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
-2. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
+1. 🎉 Merged PR [#164](https://github.com/EternalCodeTeam/DiscordOfficer/pull/164) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
+2. 💪 Opened PR [#203](https://github.com/EternalCodeTeam/EternalCombat/pull/203) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
 3. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
 4. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
-5. 💪 Opened PR [#89](https://github.com/Fix3dll/SkyblockAddons/pull/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
+5. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
 <!--END_SECTION:activity-->

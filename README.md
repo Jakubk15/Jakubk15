@@ -47,7 +47,7 @@ Java                     3 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/Fix3dll/SkyblockAddons/issues/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
+1. 🎉 Merged PR [#122](https://github.com/EternalCodeTeam/ParcelLockers/pull/122) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 2. ❌ Closed PR [#89](https://github.com/Fix3dll/SkyblockAddons/pull/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
 3. ❗️ Closed issue [#95](https://github.com/EternalCodeTeam/ParcelLockers/issues/95) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 4. 🎉 Merged PR [#120](https://github.com/EternalCodeTeam/ParcelLockers/pull/120) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)

@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-### I'm Jakub, starting Java Developer, working with Open Source Minecraft projects.
+### I'm Jakub, Java Developer, working with Open Source Minecraft projects.
 
 
 ![discord](https://discord.c99.nl/widget/theme-4/533345209434767372.png)

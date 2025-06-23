@@ -47,8 +47,8 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#937](https://github.com/EternalCodeTeam/EternalCore/issues/937) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❌ Closed PR [#89](https://github.com/Fix3dll/SkyblockAddons/pull/89) in [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons)
+1. 🎉 Merged PR [#123](https://github.com/EternalCodeTeam/ParcelLockers/pull/123) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🗣 Commented on [#937](https://github.com/EternalCodeTeam/EternalCore/issues/937) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 3. ❗️ Closed issue [#95](https://github.com/EternalCodeTeam/ParcelLockers/issues/95) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 4. 🎉 Merged PR [#120](https://github.com/EternalCodeTeam/ParcelLockers/pull/120) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 5. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/issues/203) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)

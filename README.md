@@ -48,8 +48,8 @@ Kotlin                   11 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/EternalCodeTeam/ParcelLockers/pull/123) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🗣 Commented on [#937](https://github.com/EternalCodeTeam/EternalCore/issues/937) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#124](https://github.com/EternalCodeTeam/ParcelLockers/pull/124) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🎉 Merged PR [#123](https://github.com/EternalCodeTeam/ParcelLockers/pull/123) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 3. ❗️ Closed issue [#95](https://github.com/EternalCodeTeam/ParcelLockers/issues/95) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 4. 🎉 Merged PR [#120](https://github.com/EternalCodeTeam/ParcelLockers/pull/120) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 5. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/issues/203) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)

@@ -45,9 +45,9 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1054](https://github.com/EternalCodeTeam/EternalCore/issues/1054) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❗️ Opened issue [#1053](https://github.com/EternalCodeTeam/EternalCore/issues/1053) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🎉 Merged PR [#125](https://github.com/EternalCodeTeam/ParcelLockers/pull/125) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🎉 Merged PR [#121](https://github.com/EternalCodeTeam/ParcelLockers/pull/121) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 🎉 Merged PR [#124](https://github.com/EternalCodeTeam/ParcelLockers/pull/124) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. ❗️ Opened issue [#131](https://github.com/EternalCodeTeam/ParcelLockers/issues/131) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❗️ Opened issue [#130](https://github.com/EternalCodeTeam/ParcelLockers/issues/130) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. ❗️ Opened issue [#129](https://github.com/EternalCodeTeam/ParcelLockers/issues/129) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. ❗️ Opened issue [#128](https://github.com/EternalCodeTeam/ParcelLockers/issues/128) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 💪 Opened PR [#127](https://github.com/EternalCodeTeam/ParcelLockers/pull/127) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

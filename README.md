@@ -51,9 +51,9 @@ Gradle                   8 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1074](https://github.com/EternalCodeTeam/EternalCore/pull/1074) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 💪 Opened PR [#1070](https://github.com/EternalCodeTeam/EternalCore/pull/1070) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🗣 Commented on [#991](https://github.com/EternalCodeTeam/EternalCore/issues/991) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🗣 Commented on [#1061](https://github.com/EternalCodeTeam/EternalCore/issues/1061) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗️ Closed issue [#130](https://github.com/EternalCodeTeam/ParcelLockers/issues/130) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 💪 Opened PR [#1076](https://github.com/EternalCodeTeam/EternalCore/pull/1076) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. ❗️ Opened issue [#1075](https://github.com/EternalCodeTeam/EternalCore/issues/1075) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 💪 Opened PR [#1074](https://github.com/EternalCodeTeam/EternalCore/pull/1074) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 💪 Opened PR [#1070](https://github.com/EternalCodeTeam/EternalCore/pull/1070) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🗣 Commented on [#991](https://github.com/EternalCodeTeam/EternalCore/issues/991) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

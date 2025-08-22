@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 3 hours
-    - cron: '0 */6 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme:
@@ -25,7 +25,7 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_OS: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SYMBOL_VERSION: 2

@@ -31,9 +31,9 @@ Properties               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1153](https://github.com/EternalCodeTeam/EternalCore/issues/1153) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❗ Opened issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-3. 💪 Opened PR [#137](https://github.com/EternalCodeTeam/ParcelLockers/pull/137) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🗣 Commented on [#1136](https://github.com/EternalCodeTeam/EternalCore/pull/1136#issuecomment-3239019019) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗ Opened issue [#151](https://github.com/TriumphTeam/triumph-gui/issues/151) in [TriumphTeam/triumph-gui](https://github.com/TriumphTeam/triumph-gui)
+1. 🗣 Commented on [#137](https://github.com/EternalCodeTeam/ParcelLockers/pull/137#issuecomment-3263751516) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❗ Opened issue [#1153](https://github.com/EternalCodeTeam/EternalCore/issues/1153) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ❗ Opened issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+4. 💪 Opened PR [#137](https://github.com/EternalCodeTeam/ParcelLockers/pull/137) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 🗣 Commented on [#1136](https://github.com/EternalCodeTeam/EternalCore/pull/1136#issuecomment-3239019019) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

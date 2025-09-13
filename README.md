@@ -31,9 +31,9 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/EternalCodeTeam/ParcelLockers/pull/137#issuecomment-3263751516) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. ❗ Opened issue [#1153](https://github.com/EternalCodeTeam/EternalCore/issues/1153) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. ❗ Opened issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-4. 💪 Opened PR [#137](https://github.com/EternalCodeTeam/ParcelLockers/pull/137) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 🗣 Commented on [#1136](https://github.com/EternalCodeTeam/EternalCore/pull/1136#issuecomment-3239019019) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#136](https://github.com/EternalCodeTeam/ParcelLockers/pull/136) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❌ Closed PR [#51](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/51) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+3. 🎉 Merged PR [#39](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/39) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+4. 🎉 Merged PR [#53](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/53) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+5. 🎉 Merged PR [#56](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/56) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
 <!--END_SECTION:activity-->

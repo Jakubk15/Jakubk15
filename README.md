@@ -31,9 +31,9 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1182](https://github.com/EternalCodeTeam/EternalCore/issues/1182) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🗣 Commented on [#1161](https://github.com/EternalCodeTeam/EternalCore/issues/1161#issuecomment-3315793896) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 💪 Opened PR [#1164](https://github.com/EternalCodeTeam/EternalCore/pull/1164) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 💪 Opened PR [#1162](https://github.com/EternalCodeTeam/EternalCore/pull/1162) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗ Opened issue [#1161](https://github.com/EternalCodeTeam/EternalCore/issues/1161) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 💪 Opened PR [#1192](https://github.com/EternalCodeTeam/EternalCore/pull/1192) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🎉 Merged PR [#283](https://github.com/EternalCodeTeam/EternalCombat/pull/283) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+3. 🎉 Merged PR [#284](https://github.com/EternalCodeTeam/EternalCombat/pull/284) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. 🎉 Merged PR [#286](https://github.com/EternalCodeTeam/EternalCombat/pull/286) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+5. 🎉 Merged PR [#280](https://github.com/EternalCodeTeam/EternalCombat/pull/280) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
 <!--END_SECTION:activity-->

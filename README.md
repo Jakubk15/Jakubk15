@@ -31,9 +31,9 @@ TypeScript               11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#140](https://github.com/EternalCodeTeam/ParcelLockers/pull/140) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🎉 Merged PR [#139](https://github.com/EternalCodeTeam/ParcelLockers/pull/139) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🎉 Merged PR [#138](https://github.com/EternalCodeTeam/ParcelLockers/pull/138) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 💪 Opened PR [#162](https://github.com/EternalCodeTeam/website/pull/162) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-5. 💪 Opened PR [#1192](https://github.com/EternalCodeTeam/EternalCore/pull/1192) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🗣 Commented on [#89](https://github.com/EternalCodeTeam/EternalEconomy/pull/89#issuecomment-3394970064) in [EternalCodeTeam/EternalEconomy](https://github.com/EternalCodeTeam/EternalEconomy)
+2. 🎉 Merged PR [#140](https://github.com/EternalCodeTeam/ParcelLockers/pull/140) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🎉 Merged PR [#139](https://github.com/EternalCodeTeam/ParcelLockers/pull/139) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. 🎉 Merged PR [#138](https://github.com/EternalCodeTeam/ParcelLockers/pull/138) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 💪 Opened PR [#162](https://github.com/EternalCodeTeam/website/pull/162) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
 <!--END_SECTION:activity-->

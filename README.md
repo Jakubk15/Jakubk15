@@ -31,9 +31,9 @@ TypeScript               11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/EternalCodeTeam/EternalEconomy/pull/89#issuecomment-3394970064) in [EternalCodeTeam/EternalEconomy](https://github.com/EternalCodeTeam/EternalEconomy)
-2. 🗣 Commented on [#1192](https://github.com/EternalCodeTeam/EternalCore/pull/1192#issuecomment-3384718380) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 💪 Opened PR [#162](undefined) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-4. ❌ Labeled PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 💪 Opened PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. ❌ Labeled PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. ❌ Labeled PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3.  Labeled issue [#1214](https://github.com/EternalCodeTeam/EternalCore/issues/1214) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4.  Labeled issue [#1214](https://github.com/EternalCodeTeam/EternalCore/issues/1214) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗ Opened issue [#1214](https://github.com/EternalCodeTeam/EternalCore/issues/1214) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

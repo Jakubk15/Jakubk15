@@ -1,8 +1,6 @@
 ![discord](https://discord.c99.nl/widget/theme-4/533345209434767372.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%202%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -27,7 +25,7 @@ IDEA_MODULE              0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 01/11/2025 12:06:07 UTC
+ Last Updated on 02/11/2025 00:15:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

@@ -31,9 +31,9 @@ YAML                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/EternalCodeTeam/ParcelLockers/pull/143#issuecomment-3506550390) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. ❌ Labeled PR [#143](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 💪 Opened PR [#143](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. ❌ Closed PR [#127](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5.  Unassigned issue [#978](https://github.com/EternalCodeTeam/EternalCore/issues/978) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1.  Assigned issue [#63](https://github.com/EternalCodeTeam/ParcelLockers/issues/63) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🔒 Closed issue [#71](https://github.com/EternalCodeTeam/ParcelLockers/issues/71) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🔒 Closed issue [#73](https://github.com/EternalCodeTeam/ParcelLockers/issues/73) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. 🗣 Commented on [#143](https://github.com/EternalCodeTeam/ParcelLockers/pull/143#issuecomment-3506550390) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. ❌ Labeled PR [#143](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

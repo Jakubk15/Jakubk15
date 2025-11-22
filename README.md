@@ -31,9 +31,9 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2.  Labeled issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. ❗ Opened issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4.  Assigned issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5.  Assigned issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. ❌ Labeled PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 💪 Opened PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3.  Labeled issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4.  Labeled issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗ Opened issue [#1236](https://github.com/EternalCodeTeam/EternalCore/issues/1236) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

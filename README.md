@@ -29,9 +29,9 @@ JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#162](undefined) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-2. ❌ Merged PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. ❌ Merged PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❌ Labeled PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 💪 Opened PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🗣 Commented on [#302](https://github.com/EternalCodeTeam/EternalCombat/pull/302#issuecomment-3648053866) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+2. ❌ Merged PR [#162](undefined) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+3. ❌ Merged PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. ❌ Merged PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❌ Labeled PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

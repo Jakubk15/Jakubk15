@@ -29,9 +29,9 @@ JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/EternalCodeTeam/EternalCombat/pull/302#issuecomment-3648053866) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-2. ❌ Merged PR [#162](undefined) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-3. ❌ Merged PR [#1192](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❌ Merged PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❌ Labeled PR [#1238](undefined) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 💪 Opened PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🚀 Published release [v0.1.0-SNAPSHOT](https://github.com/EternalCodeTeam/ParcelLockers/releases/tag/v0.1.0-SNAPSHOT) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. ❌ Merged PR [#152](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. 🗣 Commented on [#152](https://github.com/EternalCodeTeam/ParcelLockers/pull/152#issuecomment-3649392197) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 💪 Opened PR [#152](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

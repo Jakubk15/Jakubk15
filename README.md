@@ -1,7 +1,7 @@
 ![discord](https://discord.c99.nl/widget/theme-4/533345209434767372.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2023%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -19,11 +19,13 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.10 % 
+Kotlin                   28 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.45 % 
+Markdown                 2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.45 % 
 ```
 
 
- Last Updated on 22/12/2025 00:15:49 UTC
+ Last Updated on 22/12/2025 12:07:56 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

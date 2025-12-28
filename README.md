@@ -29,9 +29,9 @@ Markdown                 2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 🔒 Closed issue [#63](https://github.com/EternalCodeTeam/ParcelLockers/issues/63) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. ❌ Labeled PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 💪 Opened PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 🚀 Published release [v0.1.0-SNAPSHOT](https://github.com/EternalCodeTeam/ParcelLockers/releases/tag/v0.1.0-SNAPSHOT) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🚀 Published release [v0.2.0-SNAPSHOT](https://github.com/EternalCodeTeam/ParcelLockers/releases/tag/v0.2.0-SNAPSHOT) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. ❌ Merged PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🔒 Closed issue [#63](https://github.com/EternalCodeTeam/ParcelLockers/issues/63) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. ❌ Labeled PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. 💪 Opened PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

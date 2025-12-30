@@ -28,9 +28,9 @@ Kotlin                   13 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0-SNAPSHOT](https://github.com/EternalCodeTeam/ParcelLockers/releases/tag/v0.2.0-SNAPSHOT) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. ❌ Merged PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🔒 Closed issue [#63](https://github.com/EternalCodeTeam/ParcelLockers/issues/63) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. ❌ Labeled PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 💪 Opened PR [#153](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🗣 Commented on [#303](https://github.com/EternalCodeTeam/EternalCombat/pull/303#issuecomment-3697475987) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+2. ❌ Merged PR [#155](undefined) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3.  Unlabeled issue [#75](https://github.com/EternalCodeTeam/ParcelLockers/issues/75) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4.  Unlabeled issue [#77](https://github.com/EternalCodeTeam/ParcelLockers/issues/77) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5.  Unlabeled issue [#79](https://github.com/EternalCodeTeam/ParcelLockers/issues/79) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

@@ -1,3 +1,12 @@
+# Hello there 👋
+
+I'm Jakub, a high-school student (junior year) and Team Maintainer & Co-Founder at [EternalCodeTeam](https://github.com/EternalCodeTeam).
+I am mainly focused in Java Development and accelerating my workflow using the Gradle build tool. I also like to reverse-engineer some JARs from time to time 😅
+
+📦 My most notable project is the [ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers) plugin, which aims to add functionality of InPost parcel lockers to Minecraft.
+
+
+
 ![discord](https://discord.c99.nl/widget/theme-4/533345209434767372.png)
 
 <!--START_SECTION:waka-->

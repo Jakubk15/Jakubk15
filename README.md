@@ -31,9 +31,9 @@ GitIgnore file           2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#162](https://github.com/EternalCodeTeam/ParcelLockers/pull/162) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. ❌ Closed PR [#163](https://github.com/EternalCodeTeam/ParcelLockers/pull/163) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. ❌ Closed PR [#159](https://github.com/EternalCodeTeam/ParcelLockers/pull/159) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🗣 Commented on [#160](https://github.com/EternalCodeTeam/ParcelLockers/pull/160#issuecomment-3735872173) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-5. 💪 Opened PR [#160](https://github.com/EternalCodeTeam/ParcelLockers/pull/160) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🎉 Merged PR [#158](https://github.com/EternalCodeTeam/ParcelLockers/pull/158) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+2. 🎉 Merged PR [#160](https://github.com/EternalCodeTeam/ParcelLockers/pull/160) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. ❌ Closed PR [#162](https://github.com/EternalCodeTeam/ParcelLockers/pull/162) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+4. ❌ Closed PR [#163](https://github.com/EternalCodeTeam/ParcelLockers/pull/163) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+5. ❌ Closed PR [#159](https://github.com/EternalCodeTeam/ParcelLockers/pull/159) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

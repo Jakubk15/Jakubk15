@@ -40,9 +40,9 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1212](https://github.com/EternalCodeTeam/EternalCore/issues/1212) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❗ Opened issue [#176](https://github.com/EternalCodeTeam/ParcelLockers/issues/176) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. 🗣 Commented on [#175](https://github.com/EternalCodeTeam/ParcelLockers/pull/175#issuecomment-3795365716) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-4. 🎉 Merged PR [#119](https://github.com/EternalCodeTeam/multification/pull/119) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
-5. ℹ️ Labeled PR [#225](https://github.com/EternalCodeTeam/DiscordOfficer/pull/225) in [EternalCodeTeam/DiscordOfficer](https://github.com/EternalCodeTeam/DiscordOfficer)
+1. ℹ️ Labeled issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+2. ❗ Opened issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+3. ℹ️ Assigned issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+4. ℹ️ Assigned issue [#1212](https://github.com/EternalCodeTeam/EternalCore/issues/1212) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗ Opened issue [#176](https://github.com/EternalCodeTeam/ParcelLockers/issues/176) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

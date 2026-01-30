@@ -40,9 +40,9 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-2. ❗ Opened issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-3. ℹ️ Assigned issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-4. ℹ️ Assigned issue [#1212](https://github.com/EternalCodeTeam/EternalCore/issues/1212) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗ Opened issue [#176](https://github.com/EternalCodeTeam/ParcelLockers/issues/176) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🗣 Commented on [#331](https://github.com/EternalCodeTeam/EternalCombat/pull/331#issuecomment-3823037481) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+2. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/pull/203#issuecomment-3822853587) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+3. ℹ️ Labeled issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+4. ❗ Opened issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+5. ℹ️ Assigned issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
 <!--END_SECTION:activity-->

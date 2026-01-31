@@ -40,9 +40,9 @@ INI                      1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/EternalCodeTeam/EternalCombat/pull/331#issuecomment-3823037481) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-2. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/pull/203#issuecomment-3822853587) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-3. ℹ️ Labeled issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-4. ❗ Opened issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-5. ℹ️ Assigned issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+1. 🔓 Reopened issue [#201](https://github.com/EternalCodeTeam/EternalCombat/issues/201) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+2. 🗣 Commented on [#331](https://github.com/EternalCodeTeam/EternalCombat/pull/331#issuecomment-3823037481) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+3. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/pull/203#issuecomment-3822853587) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. ℹ️ Labeled issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+5. ❗ Opened issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
 <!--END_SECTION:activity-->

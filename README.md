@@ -40,9 +40,9 @@ IDEA_MODULE              1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#201](https://github.com/EternalCodeTeam/EternalCombat/issues/201) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-2. 🗣 Commented on [#331](https://github.com/EternalCodeTeam/EternalCombat/pull/331#issuecomment-3823037481) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-3. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/pull/203#issuecomment-3822853587) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-4. ℹ️ Labeled issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-5. ❗ Opened issue [#218](https://github.com/EternalCodeTeam/website/issues/218) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+1. 💪 Opened PR [#1288](https://github.com/EternalCodeTeam/EternalCore/pull/1288) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🗣 Commented on [#175](https://github.com/EternalCodeTeam/ParcelLockers/pull/175#issuecomment-3828576883) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+3. 🔓 Reopened issue [#201](https://github.com/EternalCodeTeam/EternalCombat/issues/201) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. 🗣 Commented on [#331](https://github.com/EternalCodeTeam/EternalCombat/pull/331#issuecomment-3823037481) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+5. 🗣 Commented on [#203](https://github.com/EternalCodeTeam/EternalCombat/pull/203#issuecomment-3822853587) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
 <!--END_SECTION:activity-->

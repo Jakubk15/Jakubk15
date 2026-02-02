@@ -40,9 +40,9 @@ IDEA_MODULE              1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#335](https://github.com/EternalCodeTeam/EternalCombat/pull/335) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-2. 💪 Opened PR [#335](https://github.com/EternalCodeTeam/EternalCombat/pull/335) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-3. ℹ️ Assigned issue [#267](https://github.com/EternalCodeTeam/EternalCombat/issues/267) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-4. 🔒 Closed issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-5. 🗣 Commented on [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323#issuecomment-3830914324) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+1. ℹ️ Labeled issue [#267](https://github.com/EternalCodeTeam/EternalCombat/issues/267) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+2. ℹ️ Unlabeled issue [#267](https://github.com/EternalCodeTeam/EternalCombat/issues/267) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+3. 🗣 Commented on [#267](https://github.com/EternalCodeTeam/EternalCombat/issues/267#issuecomment-3830987350) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. ℹ️ Labeled PR [#335](https://github.com/EternalCodeTeam/EternalCombat/pull/335) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+5. 💪 Opened PR [#335](https://github.com/EternalCodeTeam/EternalCombat/pull/335) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
 <!--END_SECTION:activity-->

@@ -40,9 +40,9 @@ XML                      2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-2. 🗣 Commented on [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323#issuecomment-3843086799) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-3. ℹ️ Unassigned issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-4. ℹ️ Labeled issue [#267](https://github.com/EternalCodeTeam/EternalCombat/issues/267) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-5. ℹ️ Unlabeled issue [#267](https://github.com/EternalCodeTeam/EternalCombat/issues/267) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+1. ❌ Closed PR [#46](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/46) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+2. ❌ Closed PR [#63](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/63) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+3. 🔒 Closed issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. 🗣 Commented on [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323#issuecomment-3843086799) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+5. ℹ️ Unassigned issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
 <!--END_SECTION:activity-->

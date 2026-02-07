@@ -40,9 +40,9 @@ JSON                     2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/46) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
-2. ❌ Closed PR [#63](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/63) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
-3. 🔒 Closed issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-4. 🗣 Commented on [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323#issuecomment-3843086799) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-5. ℹ️ Unassigned issue [#323](https://github.com/EternalCodeTeam/EternalCombat/issues/323) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+1. ℹ️ Assigned issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+2. ℹ️ Assigned issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+3. ℹ️ Assigned issue [#148](https://github.com/EternalCodeTeam/ChatFormatter/issues/148) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+4. ℹ️ Assigned issue [#148](https://github.com/EternalCodeTeam/ChatFormatter/issues/148) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+5. ℹ️ Unassigned issue [#148](https://github.com/EternalCodeTeam/ChatFormatter/issues/148) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
 <!--END_SECTION:activity-->

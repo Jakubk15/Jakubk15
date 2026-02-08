@@ -40,9 +40,9 @@ JSON                     2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-2. ℹ️ Assigned issue [#173](https://github.com/EternalCodeTeam/ChatFormatter/issues/173) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-3. ℹ️ Assigned issue [#148](https://github.com/EternalCodeTeam/ChatFormatter/issues/148) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-4. ℹ️ Assigned issue [#148](https://github.com/EternalCodeTeam/ChatFormatter/issues/148) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-5. ℹ️ Unassigned issue [#148](https://github.com/EternalCodeTeam/ChatFormatter/issues/148) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+1. 🎉 Merged PR [#207](https://github.com/EternalCodeTeam/ChatFormatter/pull/207) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+2. 🎉 Merged PR [#1294](https://github.com/EternalCodeTeam/EternalCore/pull/1294) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#339](https://github.com/EternalCodeTeam/EternalCombat/pull/339) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. 🎉 Merged PR [#124](https://github.com/EternalCodeTeam/multification/pull/124) in [EternalCodeTeam/multification](https://github.com/EternalCodeTeam/multification)
+5. 💪 Opened PR [#76](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/76) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
 <!--END_SECTION:activity-->

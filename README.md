@@ -40,9 +40,9 @@ textmate                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#236](https://github.com/EternalCodeTeam/website/pull/236) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-2. 💪 Opened PR [#235](https://github.com/EternalCodeTeam/website/pull/235) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
-3. 🗣 Commented on [#123](https://github.com/EternalCodeTeam/ChatFormatter/pull/123#issuecomment-3913230536) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-4. ❌ Closed PR [#123](https://github.com/EternalCodeTeam/ChatFormatter/pull/123) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-5. 🔒 Closed issue [#76](https://github.com/EternalCodeTeam/ParcelLockers/issues/76) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🚀 Published release [v1.3.3](https://github.com/EternalCodeTeam/EternalCodeCommons/releases/tag/v1.3.3) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+2. 🎉 Merged PR [#76](https://github.com/EternalCodeTeam/EternalCodeCommons/pull/76) in [EternalCodeTeam/EternalCodeCommons](https://github.com/EternalCodeTeam/EternalCodeCommons)
+3. ℹ️ Labeled PR [#348](https://github.com/EternalCodeTeam/EternalCombat/pull/348) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+4. 💪 Opened PR [#348](https://github.com/EternalCodeTeam/EternalCombat/pull/348) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
+5. 💪 Opened PR [#236](https://github.com/EternalCodeTeam/website/pull/236) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
 <!--END_SECTION:activity-->

@@ -40,9 +40,9 @@ YAML                     33 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#679](https://github.com/Rollczi/LiteCommands/issues/679) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)
-2. ℹ️ Unassigned PR [#1308](https://github.com/EternalCodeTeam/EternalCore/pull/1308) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. ℹ️ Labeled PR [#1308](https://github.com/EternalCodeTeam/EternalCore/pull/1308) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ℹ️ Labeled PR [#1284](https://github.com/EternalCodeTeam/EternalCore/pull/1284) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ℹ️ Labeled PR [#1297](https://github.com/EternalCodeTeam/EternalCore/pull/1297) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🗣 Commented on [#236](https://github.com/EternalCodeTeam/website/pull/236#issuecomment-3939055011) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+2. ❌ Closed PR [#235](https://github.com/EternalCodeTeam/website/pull/235) in [EternalCodeTeam/website](https://github.com/EternalCodeTeam/website)
+3. ❗ Opened issue [#679](https://github.com/Rollczi/LiteCommands/issues/679) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)
+4. ℹ️ Unassigned PR [#1308](https://github.com/EternalCodeTeam/EternalCore/pull/1308) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ℹ️ Labeled PR [#1308](https://github.com/EternalCodeTeam/EternalCore/pull/1308) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->

@@ -28,12 +28,11 @@ I am mainly focused in Java Development and accelerating my workflow using the G
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     18 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.57 % 
-Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.43 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/05/2026 00:37:42 UTC
+ Last Updated on 25/05/2026 13:09:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

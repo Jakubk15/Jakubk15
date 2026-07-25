@@ -10,8 +10,6 @@ I am mainly focused in Java Development and accelerating my workflow using the G
 ![discord](https://discord.c99.nl/widget/theme-4/533345209434767372.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2020%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -36,7 +34,7 @@ Git                      9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 24/07/2026 13:24:58 UTC
+ Last Updated on 25/07/2026 02:02:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

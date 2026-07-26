@@ -40,9 +40,9 @@ Git                      9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/EternalCodeTeam/ParcelLockers/pull/241) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-2. 💪 Opened PR [#241](https://github.com/EternalCodeTeam/ParcelLockers/pull/241) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
-3. ℹ️ Assigned issue [#415](https://github.com/EternalCodeTeam/EternalCombat/issues/415) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-4. ℹ️ Assigned issue [#415](https://github.com/EternalCodeTeam/EternalCombat/issues/415) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
-5. 🎉 Merged PR [#1398](https://github.com/EternalCodeTeam/EternalCore/pull/1398) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#1399](https://github.com/EternalCodeTeam/EternalCore/pull/1399) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🔒 Closed issue [#1393](https://github.com/EternalCodeTeam/EternalCore/issues/1393) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ℹ️ Labeled issue [#1405](https://github.com/EternalCodeTeam/EternalCore/issues/1405) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. ❗ Opened issue [#1405](https://github.com/EternalCodeTeam/EternalCore/issues/1405) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#241](https://github.com/EternalCodeTeam/ParcelLockers/pull/241) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
 <!--END_SECTION:activity-->

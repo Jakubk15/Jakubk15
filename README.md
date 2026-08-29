@@ -30,41 +30,41 @@ I am mainly focused in Java Development and accelerating my workflow using the G
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.28 % 
-Other                    42 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.83 % 
-Markdown                 26 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.38 % 
-SQL                      8 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.54 % 
-Text                     5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.60 % 
+TypeScript               3 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.45 % 
+Markdown                 1 hr 26 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.22 % 
+Other                    42 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.49 % 
+SQL                      29 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.23 % 
+Text                     19 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (82.58%)
+⏱ AI Coding Time: 5 hrs 50 mins (86.29%)
 
-✍️ 22 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,488 lines written by AI, 21 lines written by hand (98.61% AI-written)
 
-🔤 666,966 Input Tokens, 88,095 Output Tokens
+🔤 1,528,069 Input Tokens, 366,120 Output Tokens
 
-💵 $81.22 Estimated AI Cost This Week
+💵 $115.62 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 42 AI Prompts
+🧠 98 AI Sessions, 85 AI Prompts
 
-GPT                      41 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Opus                     1,235 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   78.56 % 
+Sonnet                   296 lines           ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.83 % 
+GPT                      41 lines            ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.61 % 
 Codex-Vscode             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Codex-Cli                0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-Opencode-Cli             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-Github-Copilot-Cli       0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,406 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.61% of written lines came from AI
+📚 Verbose Prompter — average 3,286 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 21:40:12 UTC
+ Last Updated on 29/08/2026 05:06:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->

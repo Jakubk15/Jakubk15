@@ -40,8 +40,8 @@ JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1381](https://github.com/EternalCodeTeam/EternalCore/pull/1381) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 💪 Opened PR [#242](https://github.com/EternalCodeTeam/ParcelLockers/pull/242) in [EternalCodeTeam/ParcelLockers](https://github.com/EternalCodeTeam/ParcelLockers)
+1. 🗣 Commented on [#1408](https://github.com/EternalCodeTeam/EternalCore/pull/1408#issuecomment-5583552474) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🎉 Merged PR [#1381](https://github.com/EternalCodeTeam/EternalCore/pull/1381) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 3. 🗣 Commented on [#348](https://github.com/EternalCodeTeam/EternalCombat/pull/348#issuecomment-5085338568) in [EternalCodeTeam/EternalCombat](https://github.com/EternalCodeTeam/EternalCombat)
 4. 🔒 Closed issue [#1393](https://github.com/EternalCodeTeam/EternalCore/issues/1393) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 5. ℹ️ Labeled issue [#1405](https://github.com/EternalCodeTeam/EternalCore/issues/1405) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
